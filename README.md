@@ -34,7 +34,11 @@ It provides a basic system for maintaining book inventory and monitoring student
 
 📸 Screenshots:
 ![Screenshot 2023-10-29 221216](https://github.com/user-attachments/assets/9013fee0-761c-41ca-8613-f5ebe243a8d0)
-![Screenshot 2023-10-29 221439](https://github.com/user-attachments/assets/5860118b-e64a-4bab-91b2-ff31c772103e)
+![Screenshot 2023-10-29 221250](https://github.com/user-attachments/assets/b9c6a6c7-1047-4df4-90b5-09de27447971)
+![Screenshot 2023-10-29 221327](https://github.com/user-attachments/assets/d68d7e7c-40d6-42d6-8557-fb484f9fb4d6)
+![Screenshot 2023-10-29 221353](https://github.com/user-attachments/assets/efd3ee08-3d65-4e32-b82f-038a5f717385)
+![Screenshot 2023-10-29 221407](https://github.com/user-attachments/assets/b6bf496f-8b86-4b4a-88c5-d282a5ebc870)
+![Screenshot 2023-10-29 221421](https://github.com/user-attachments/assets/c185a76d-4431-4ffd-9061-5edfe0bd1e1b)
 
 
  🧩 Future Improvements:
